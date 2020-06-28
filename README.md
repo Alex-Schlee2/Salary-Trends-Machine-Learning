@@ -86,6 +86,7 @@ After scraping the data and storing it in csv and pandas, I had to do some clean
 
 <img src='./images/image6.png' width=400>
 
+
 #### Pivot table showing top 10 best paying cities in descending order
 
 <img src='./images/image7.png' width=300>
