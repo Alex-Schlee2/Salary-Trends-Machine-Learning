@@ -33,7 +33,8 @@ A big thank you goes to [KenJee](https://www.youtube.com/channel/UCiT9RITQ9PW6Bh
 
 
 
-<br>
+
+
 ## Part 1- Scraping Data with Selenium
 * Job Title
 * Company name
@@ -46,7 +47,8 @@ A big thank you goes to [KenJee](https://www.youtube.com/channel/UCiT9RITQ9PW6Bh
 ### Output in pandas after scraping (first 5 entries)
 <img src='./images/image2.png' width=600>
 
-<br>
+
+
 ## Part 2- Data Cleaning and Feature Engineering
 After scraping the data and storing it in csv and pandas, I had to do some cleaning steps like:
 * remove rows where salary information is not availabe(before cleaning: 794 job entries, after cleaning: 211 job entries; data loss of more than 70(!))
@@ -67,7 +69,9 @@ After scraping the data and storing it in csv and pandas, I had to do some clean
   * Tensorflow Skills 
   * NLP Skills
   <img src='./images/image3.png' width=600>
-<br>
+  
+
+
 ## Part 3- Data Visualization and insigths
 
 #### Salary distribution
@@ -90,7 +94,7 @@ After scraping the data and storing it in csv and pandas, I had to do some clean
 
 <img src='./images/image8.png' width=175>   <img src='./images/image9.png' width=200> <img src='./images/image10.png' width=200>
 
-<br>
+
 
 ## Part 4- Project Limitation and Conclusion
 Since more than 70% of the data was removed due to missing salary information and we just have 211 rows with job information, I decided not to build a machine learning algorithm to predict the salary (target variable). According to my opinion the dataset is just to small. I consider for future projects to build for example a multiple linear regression model when more data is available. In order to achieve that, other job platforms like for example glassdoor.com can be observed where probably more salary information is available and can be scraped.  
