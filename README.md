@@ -29,7 +29,7 @@ A big thank you goes to [KenJee](https://www.youtube.com/channel/UCiT9RITQ9PW6Bh
 ### Code and Resources
 * Python Version: 3.8
 * Environment: Jupyter Notebook
-* Packages: Selenium, Matplotlib, Seaborn, Numpy
+* Packages: Selenium, Matplotlib, Seaborn, Numpy, Pandas
 
 
 
