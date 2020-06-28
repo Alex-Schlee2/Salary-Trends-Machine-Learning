@@ -90,6 +90,7 @@ After scraping the data and storing it in csv and pandas, I had to do some clean
 
 <img src='./images/image7.png' width=300>
 
+
 #### Top 3 most important skills according to available job description
 
 <img src='./images/image8.png' width=175>   <img src='./images/image9.png' width=200> <img src='./images/image10.png' width=200>
